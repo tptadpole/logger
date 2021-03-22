@@ -1,0 +1,13 @@
+{
+    "name": "tptadpole/logger",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "tptadpole\\logger\\": "src/lib"
+        },
+        "files": []
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
