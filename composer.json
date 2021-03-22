@@ -1,0 +1,10 @@
+{
+    "name": "tptadpole/logger",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tptadpole\\logger\\": "src/"
+        }
+    }
+}
