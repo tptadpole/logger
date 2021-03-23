@@ -1,10 +1,7 @@
 <?php
 
-echo "hello,world";
 
-
-/*
-class test
+class hello
 {
     function debug(){
         echo "debug";
@@ -26,6 +23,5 @@ class test
         echo "error";
     }
 }
-*/
   
     
