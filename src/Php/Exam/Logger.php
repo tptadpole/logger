@@ -6,27 +6,27 @@ class Logger implements LoggerInterface
 {
 
     function __construct(){
-        echo "hello";
+        echo "hello\n";
     }
 
     function debug(){
-        echo "debug";
+        echo "debug\n";
     }
 
     function info(){
-        echo "info";
+        echo "info\n";
     }
 
     function notice(){
-        echo "notice";
+        echo "notice\n";
     }
 
     function critical(){
-        echo "critical";
+        echo "critical\n";
     }
 
     function error(){
-        echo "error";
+        echo "error\n";
     }
 }
   
