@@ -3,7 +3,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Php\\Exam\\": "src"
+            "Php\\Exam\\Logger\\": "src"
         },
         "files": []
     },
