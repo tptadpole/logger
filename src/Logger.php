@@ -1,5 +1,9 @@
 <?php
 
+echo "hello,world";
+
+
+/*
 class test
 {
     function debug(){
@@ -22,5 +26,6 @@ class test
         echo "error";
     }
 }
+*/
   
     
