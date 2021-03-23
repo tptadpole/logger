@@ -1,6 +1,6 @@
 <?php
 
-class Logger
+class test
 {
     function debug(){
         echo "debug";
