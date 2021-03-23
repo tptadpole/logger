@@ -6,7 +6,6 @@ class Logger implements LoggerInterface
 {
 
     function __construct(){
-        echo "hello\n";
     }
 
     function debug(){
