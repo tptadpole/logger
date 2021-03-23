@@ -3,7 +3,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Php\\Exam\\": "src"
+            "snic104\\logger\\": "src"
         },
         "files": ["src/Logger.php"]
     },
