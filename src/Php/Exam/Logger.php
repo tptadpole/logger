@@ -1,7 +1,8 @@
 <?php
 namespace Php\Exam;
+use Psr\Log;
 
-class Logger
+class Logger implements LoggerInterface
 {
 
     function __construct(){

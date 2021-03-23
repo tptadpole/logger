@@ -1,11 +1,20 @@
 <?php
-namespace Php\Log;
+namespace Psr\Log;
 
-class LoggerInterface{
+interface LoggerInterface
+{
+
+    
+    function debug();
+
+    function info();
+
+    function notice();
+
+    function critical();
+
+    function error();
 
 
-    public function __construct(){
-
-    }
 
 }

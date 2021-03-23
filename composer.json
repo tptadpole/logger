@@ -3,7 +3,8 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Php\\": "src/Php"
+            "Php\\Exam\\": "src/Php/Exam",
+            "Psr\\Log\\": "src/Psr/Log"
         }
     },
     "authors": [
