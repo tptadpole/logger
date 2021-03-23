@@ -4,8 +4,7 @@
     "autoload": {
         "psr-4": {
             "Php\\Exam\\": "src"
-        },
-        "files": ["src/Logger.php"]
+        }
     },
     "authors": [
         {
