@@ -1,6 +1,6 @@
 <?php
 namespace Php\Exam;
-use Psr\Log;
+use Psr\Log\LoggerInterface;
 
 class Logger implements LoggerInterface
 {
