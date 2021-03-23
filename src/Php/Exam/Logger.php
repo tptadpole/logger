@@ -1,8 +1,13 @@
 <?php
+namespace Php\Exam;
 
-
-class hello
+class Logger
 {
+
+    function __construct(){
+        echo "hello";
+    }
+
     function debug(){
         echo "debug";
     }
