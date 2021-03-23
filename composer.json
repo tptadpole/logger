@@ -5,7 +5,7 @@
         "psr-4": {
             "Php\\Exam\\": "src"
         },
-        "files": []
+        "files": ["src/Logger.php"]
     },
     "authors": [
         {
